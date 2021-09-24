@@ -1,7 +1,7 @@
 # Japdana Investment
 *****
 ### Description
-School web
+This is a web application for product advertisements and online purchases
 
 ## Dependencies
 * django-bootstrap
