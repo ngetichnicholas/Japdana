@@ -1,0 +1,1 @@
+web: gunicorn japdana.wsgi --log-file -
